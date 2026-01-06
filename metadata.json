@@ -1,0 +1,9 @@
+{
+  "name": "TRINETHRA",
+  "description": "A next-generation social platform leveraging AI to provide vision-beyond-sight features including AI captioning, smart image generation, and intelligent search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
